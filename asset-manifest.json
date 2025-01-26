@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BrunoARS-dev/BuscarCep/static/css/main.788b25a1.css",
-    "main.js": "/BrunoARS-dev/BuscarCep/static/js/main.1fc66d7a.js",
-    "index.html": "/BrunoARS-dev/BuscarCep/index.html",
-    "main.788b25a1.css.map": "/BrunoARS-dev/BuscarCep/static/css/main.788b25a1.css.map",
-    "main.1fc66d7a.js.map": "/BrunoARS-dev/BuscarCep/static/js/main.1fc66d7a.js.map"
+    "main.css": "/BuscarCep/static/css/main.788b25a1.css",
+    "main.js": "/BuscarCep/static/js/main.1fc66d7a.js",
+    "index.html": "/BuscarCep/index.html",
+    "main.788b25a1.css.map": "/BuscarCep/static/css/main.788b25a1.css.map",
+    "main.1fc66d7a.js.map": "/BuscarCep/static/js/main.1fc66d7a.js.map"
   },
   "entrypoints": [
     "static/css/main.788b25a1.css",
